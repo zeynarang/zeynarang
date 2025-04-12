@@ -126,6 +126,7 @@ My work revolves around building scalable, efficient web applications and leadin
 
 
 #### Monitoring Tools
+![Datadog](https://img.shields.io/badge/Datadog-6632a9?style=for-the-badge&logo=datadog&logoColor=fff)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-purple?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-green?style=for-the-badge&logo=dynatrace&logoColor=white)
 
