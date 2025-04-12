@@ -17,7 +17,6 @@ My work revolves around building scalable, efficient web applications and leadin
 
 - 💼 Current Role: **Technical Lead** (React, Node, AWS)
 - 🏅 Certification: AWS Solution Architect Associate
-- 🌱 Currently Learning: **Generative AI**
 - 🎓 Education: Graduated from **SRM University**
 - 💡 Fun Fact: I love hiking and driving on mountains. When I’m not coding, you can find me playing table tennis, badminton, basketball, or diving into video games.
 
@@ -37,6 +36,7 @@ My work revolves around building scalable, efficient web applications and leadin
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-fff?style=for-the-badge&logo=apachekafka&logoColor=000">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
@@ -76,6 +76,8 @@ My work revolves around building scalable, efficient web applications and leadin
 #### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Kafka](https://img.shields.io/badge/Kafka-fff?style=for-the-badge&logo=apachekafka&logoColor=000)
+![Redpanda](https://img.shields.io/badge/Redpanda-c8432d?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -84,6 +86,9 @@ My work revolves around building scalable, efficient web applications and leadin
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![SpringBoot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Mulesoft](https://img.shields.io/badge/Mulesoft-1a9fdc?style=for-the-badge&logo=mulesoft&logoColor=fff)
+![DBeaver](https://img.shields.io/badge/DBeaver-4a3b35?style=for-the-badge&logo=dbeaver&logoColor=fff)
+
 
 #### Cloud Computing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -98,7 +103,11 @@ My work revolves around building scalable, efficient web applications and leadin
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23d53f39.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Akeyless](https://img.shields.io/badge/Akeyless-25dbc5?style=for-the-badge)
+![Openlens](https://img.shields.io/badge/Openlens-4494d0?style=for-the-badge&logo=lens&logoColor=fff)
+![Rancher](https://img.shields.io/badge/Rancher-3698d3?style=for-the-badge&logo=rancher&logoColor=fff)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+
 
 #### Version Control Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -113,6 +122,8 @@ My work revolves around building scalable, efficient web applications and leadin
 #### Static Code Analysis Tools
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Snyk](https://img.shields.io/badge/Snyk-29274f?style=for-the-badge&logo=snyk&logoColor=fff)
+
 
 #### Monitoring Tools
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-purple?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
