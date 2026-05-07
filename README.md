@@ -2,23 +2,19 @@
 
 Welcome to my GitHub profile!
 <br><br>
-I am a Full Stack Developer with a passion for Web Development, and I’ve recently developed a strong interest in Machine Learning and
-Artificial Intelligence.
+I am a Senior Softwate Engineer with a passion for building scalable systems, and I’ve recently developed a strong interest in Artificial Intelligence.
 <br><br>
 I am also a certified AWS Solution Architect Associate, leveraging cloud technologies to build scalable and efficient applications.
-<br><br>
-I love exploring new technologies.
-<br><br>
-My work revolves around building scalable, efficient web applications and leading projects with a focus on React.js, Node.js, and AWS. I enjoy collaborating on innovative projects and constantly learning new technologies to stay at the forefront of the tech industry.
+
+My work revolves around building large scale systems with a focus on PERN stack and AWS. I enjoy collaborating on innovative projects and constantly learning new technologies to stay at the forefront of the tech industry.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Current Role: **Technical Lead** (React, Node, AWS)
+- 💼 Current Role: **Senior Software Engineer** (PERN stack, AWS)
 - 🏅 Certification: AWS Solution Architect Associate
-- 🎓 Education: Graduated from **SRM University**
-- 💡 Fun Fact: I love hiking and driving on mountains. When I’m not coding, you can find me playing table tennis, badminton, basketball, or diving into video games.
+- 💡 Fun Fact: I love travelling, trekking, sports and gaming. When I’m not coding, you can find me playing table tennis, badminton, basketball.
 
 ---
 
@@ -32,26 +28,42 @@ My work revolves around building scalable, efficient web applications and leadin
 
 # 💻 Tech Stack:
 
-#### Principal Stack
+#### Principal Stack: PERN
 <p>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-fff?style=for-the-badge&logo=apachekafka&logoColor=000">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-
 </p>
 
 #### Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </p>
+
+#### Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+#### API Management
+![Mulesoft](https://img.shields.io/badge/Mulesoft-1a9fdc?style=for-the-badge&logo=mulesoft&logoColor=fff)
+
+#### Database Management Tools
+![DBeaver](https://img.shields.io/badge/DBeaver-4a3b35?style=for-the-badge&logo=dbeaver&logoColor=fff)
+![PgAdmin](https://img.shields.io/badge/PgAdmin4-4a3b35?style=for-the-badge&logo=pgadmin&logoColor=fff)
+
+#### Ream-Time Streaming
+![Kafka](https://img.shields.io/badge/Kafka-fff?style=for-the-badge&logo=apachekafka&logoColor=000)
+![Redpanda](https://img.shields.io/badge/Redpanda-c8432d?style=for-the-badge)
+
+
+#### Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -73,47 +85,22 @@ My work revolves around building scalable, efficient web applications and leadin
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-#### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Kafka](https://img.shields.io/badge/Kafka-fff?style=for-the-badge&logo=apachekafka&logoColor=000)
-![Redpanda](https://img.shields.io/badge/Redpanda-c8432d?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![SpringBoot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Mulesoft](https://img.shields.io/badge/Mulesoft-1a9fdc?style=for-the-badge&logo=mulesoft&logoColor=fff)
-![DBeaver](https://img.shields.io/badge/DBeaver-4a3b35?style=for-the-badge&logo=dbeaver&logoColor=fff)
-
-
-#### Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 #### UI/UX Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### CI/CD Tools
-
-![Jenkins](https://img.shields.io/badge/Jenkins-%23d53f39.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Akeyless](https://img.shields.io/badge/Akeyless-25dbc5?style=for-the-badge)
 ![Openlens](https://img.shields.io/badge/Openlens-4494d0?style=for-the-badge&logo=lens&logoColor=fff)
 ![Rancher](https://img.shields.io/badge/Rancher-3698d3?style=for-the-badge&logo=rancher&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23d53f39.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
 
 #### Version Control Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #### Management Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -137,5 +124,3 @@ My work revolves around building scalable, efficient web applications and leadin
 #### Video Editing Tools
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Davinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
